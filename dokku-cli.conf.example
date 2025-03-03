@@ -1,0 +1,11 @@
+# Dokku CLI Configuration
+# Copy this file to ~/.dokku-cli.conf and edit the values
+
+# Your Dokku server hostname or IP address
+DOKKU_HOST="your-dokku-server.com"
+
+# SSH key to use for authentication
+DOKKU_SSH_KEY="~/.ssh/id_rsa"
+
+# Dokku user (usually 'dokku')
+DOKKU_USER="dokku"
